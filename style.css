@@ -7,3 +7,7 @@ html, body {
 p, h1 {
   font-family: 'Quicksand', sans-serif;
 }
+
+.text-centered {
+  text-align: center;
+}
