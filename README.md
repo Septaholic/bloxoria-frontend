@@ -2,4 +2,4 @@
 
 > With the help of Bootstrap
 >
-> Created by Strawberry and septa
+> Created by septa and Strawberry (soon)
